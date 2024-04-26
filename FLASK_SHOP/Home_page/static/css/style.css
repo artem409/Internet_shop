@@ -1,0 +1,21 @@
+h1{
+    font-size: 100;
+    position: absolute;
+    top: 232px;
+    right: 304.5px;
+    
+}
+
+#reg {
+    color: black;
+    position: absolute;
+    right: 270px;
+    font-size: 29.05px;
+}
+
+#autho{
+    color: black;
+    position: absolute;
+    right: 15px;
+    font-size: 29.05px;
+}
